@@ -36,6 +36,13 @@ body {
   background-color: black; /* Define o fundo como preto */
   color: white; /* Define a cor do texto como branco */
 }
+button{
+  width: 100px; /* Ajuste para o tamanho desejado */
+  height: 50px; /* Ajuste para o tamanho desejado */
+  margin-top: 30px;
+  color: rgb(92, 255, 71);
+  background-color: black; /* Define o fundo como preto */
+}
 
 input[type="text"] {
   text-align: center;
@@ -88,4 +95,18 @@ input[type="text"] {
   background-color: black;
   border-radius: 50%;
   border: 1px solid gray;
+}
+
+#example{
+  margin-top: 50px;
+}
+a{
+  color: black;
+}
+
+#index{
+  
+  margin-top: 50px;
+  position: relative;
+  text-align: center;
 }
